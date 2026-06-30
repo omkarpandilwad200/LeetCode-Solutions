@@ -30,7 +30,7 @@ class Solution {
                
             }
              temp.child=null; //VVIMP
-                temp=temp.next;
+                temp=t;
           
         }  return head;
     }
