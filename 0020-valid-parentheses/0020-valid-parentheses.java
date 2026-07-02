@@ -1,44 +1,38 @@
+import java.util.Stack;
+
 class Solution {
     public boolean isValid(String s) {
-
-        Stack <Character> st = new Stack<>();
+        Stack<Character> st = new Stack<>();
         int n = s.length();
-
-        for(int i=0;i<n;i++){
+        
+        for (int i = 0; i < n; i++) {
             char ch = s.charAt(i);
-            if(ch=='('||ch=='{'||ch=='['){
+            
+            // Push opening brackets onto the stack
+            if (ch == '(' || ch == '{' || ch == '[') {
                 st.push(ch);
-            }
-            else{
-                if(st.isEmpty()){
+            } 
+            // Handle closing brackets
+            else {
+                // If stack is empty, there is no matching opening bracket
+                if (st.isEmpty()) {
                     return false;
                 }
                 
-               if( st.peek()=='('&&ch==')'){
+                char top = st.peek();
+                // Check if the top of the stack matches the current closing bracket
+                if ((top == '(' && ch == ')') || 
+                    (top == '{' && ch == '}') || 
+                    (top == '[' && ch == ']')) {
                     st.pop();
-                }
-                else if(st.peek()=='{'&& ch=='}'){
-                    st.pop();
-                }
-                else if(st.peek()=='['&& ch==']'){
-                    st.pop();
-                }
-                else if((!s.contains("[")&&s.contains("]"))||(!s.contains("{") && s.contains("}"))||(!s.contains("(")&&s.contains(")"))){
+                } else {
+                    // Mismatched bracket type (e.g., top is '{' but ch is ')')
                     return false;
                 }
-                else if(st.peek()!=ch){
-                    return false;
-                }
-                
             }
-
         }
-
         
-        if(!st.isEmpty()){
-            return false;
-        }
-        return true;
-        
+        // If the stack is empty, all brackets were properly closed
+        return st.isEmpty();
     }
 }
