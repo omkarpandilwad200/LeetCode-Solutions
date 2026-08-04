@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0242-valid-anagram](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
