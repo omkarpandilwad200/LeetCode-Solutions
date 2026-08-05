@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0138-copy-list-with-random-pointer](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0242-valid-anagram](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Depth-First Search
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
