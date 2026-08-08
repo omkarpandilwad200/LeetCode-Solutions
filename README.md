@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0084-largest-rectangle-in-histogram](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0239-sliding-window-maximum](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
