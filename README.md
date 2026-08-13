@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [2596-check-knight-tour-configuration](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0239-sliding-window-maximum](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [2596-check-knight-tour-configuration](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -109,4 +111,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0052-n-queens-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
+## Matrix
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
+## Simulation
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
