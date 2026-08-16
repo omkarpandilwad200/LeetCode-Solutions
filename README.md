@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0242-valid-anagram](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -105,12 +107,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0052-n-queens-ii) |
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0052-n-queens-ii) |
 ## Breadth-First Search
@@ -121,9 +125,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [2596-check-knight-tour-configuration](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
