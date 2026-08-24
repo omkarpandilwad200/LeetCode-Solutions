@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Array
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0052-n-queens-ii) |
+| [0257-binary-tree-paths](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Algorithm X
 |  |
 | ------- |
@@ -144,12 +147,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
