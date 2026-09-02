@@ -21,31 +21,25 @@ class Solution {
         return 1 + Math.max(height(root.left), height(root.right));
     }
 
-    public List levelTraversal(TreeNode root, int n, List list) {
-
-        if (root == null)
-            return null;
+    public void levelTraversal(TreeNode root, int n, List<Integer> list) {
+        if(root==null) return;
         if (n == 1) {
             list.add(root.val);
-            return list;
+            return;
         }
         levelTraversal(root.left, n - 1, list);
         levelTraversal(root.right, n - 1, list);
-        return list;
     }
 
-    public List levelTraversal2(TreeNode root, int n, List list) {
-        if (root == null) {
-            return null;
-        }
+    public void levelTraversal2(TreeNode root, int n, List<Integer> list) {
+        if(root==null) return;
         if (n == 1) {
             list.add(root.val);
-            return list;
+            return;
 
         }
         levelTraversal2(root.right, n - 1, list);
         levelTraversal2(root.left, n - 1, list);
-        return list;
 
     }
 
@@ -62,11 +56,11 @@ class Solution {
             // }
             if (i % 2 != 0) {
                 levelTraversal(root, i, list);
-                ans.add(list);
             } else {
                 levelTraversal2(root, i, list);
-                ans.add(list);
+                
             }
+            ans.add(list);
         }
         return ans;
     }
