@@ -20,24 +20,31 @@ class Solution {
         }
         return 1+Math.max(height(root.left),height(root.right));
     }
-    public void levelTraversal(TreeNode root, int n,List<Integer> list){
-        if(root==null) return;
-        if(n==1){
-            list.add(root.val);
+        public static void LevelOrderT(TreeNode root , int n, List<Integer>list){
+
+       if(root==null){
+        return;
+       }
+       if(n==1){
+        list.add(root.val);
+        return;
+       }
+       LevelOrderT(root.left,n-1,list);
+       LevelOrderT(root.right,n-1,list);
         }
-        levelTraversal(root.left,n-1,list);
-        levelTraversal(root.right,n-1,list);
-    }
+
     public List<List<Integer>> levelOrder(TreeNode root) {
-        ArrayList <List<Integer>> ans = new ArrayList<>();
+        ArrayList <List<Integer>> ans=new ArrayList<>();
         if(root==null){
             return ans;
         }
         int level=1+height(root);
-        for(int i=1;i<=level;i++){
+        for(int i=1; i<=level; i++){
             ArrayList<Integer> list = new ArrayList<>();
-            levelTraversal(root,i,list);
+            LevelOrderT(root,i,list);
             ans.add(list);
+
+
         }
         return ans;
     }
