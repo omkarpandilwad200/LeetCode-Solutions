@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0052-n-queens-ii) |
+| [0113-path-sum-ii](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Algorithm X
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
