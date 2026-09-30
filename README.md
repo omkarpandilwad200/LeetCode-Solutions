@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0437-path-sum-iii) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0437-path-sum-iii) |
@@ -218,10 +221,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Lifting
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -231,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/omkarpandilwad200/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
